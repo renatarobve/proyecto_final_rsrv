@@ -1,0 +1,62 @@
+{
+    "nombre": "AZ Russell 2000",
+    "simbolo": "RU2K.L",
+    "descripcion": "Fondo que sigue el rendimiento del \u00edndice Russell 2000, compuesto por peque\u00f1as empresas de EE.UU.",
+    "datos_historicos": [
+        {
+            "Date": "2024-10-21",
+            "Open": 3.8652501106262207,
+            "High": 3.8652501106262207,
+            "Low": 3.8652501106262207,
+            "Close": 3.8652501106262207,
+            "Volume": 0,
+            "Dividends": 0.0,
+            "Stock Splits": 0.0,
+            "Capital Gains": 0.0
+        },
+        {
+            "Date": "2024-10-22",
+            "Open": 3.8572499752044678,
+            "High": 3.8572499752044678,
+            "Low": 3.8572499752044678,
+            "Close": 3.8572499752044678,
+            "Volume": 0,
+            "Dividends": 0.0,
+            "Stock Splits": 0.0,
+            "Capital Gains": 0.0
+        },
+        {
+            "Date": "2024-10-23",
+            "Open": 3.8310000896453857,
+            "High": 3.8310000896453857,
+            "Low": 3.8310000896453857,
+            "Close": 3.8310000896453857,
+            "Volume": 0,
+            "Dividends": 0.0,
+            "Stock Splits": 0.0,
+            "Capital Gains": 0.0
+        },
+        {
+            "Date": "2024-10-24",
+            "Open": 3.833250045776367,
+            "High": 3.833250045776367,
+            "Low": 3.833250045776367,
+            "Close": 3.833250045776367,
+            "Volume": 0,
+            "Dividends": 0.0,
+            "Stock Splits": 0.0,
+            "Capital Gains": 0.0
+        },
+        {
+            "Date": "2024-10-25",
+            "Open": 3.8375000953674316,
+            "High": 3.8375000953674316,
+            "Low": 3.8375000953674316,
+            "Close": 3.8375000953674316,
+            "Volume": 0,
+            "Dividends": 0.0,
+            "Stock Splits": 0.0,
+            "Capital Gains": 0.0
+        }
+    ]
+}
